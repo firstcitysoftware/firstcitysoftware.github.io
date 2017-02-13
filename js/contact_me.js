@@ -18,7 +18,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "https://formspree.io/randal.humphries@firstcitysoftware.com",
+                url: "//formspree.io/info@firstcitysoftware.com",
                 type: "POST",
                 data: {
                     name: name,
