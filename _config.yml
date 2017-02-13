@@ -1,0 +1,41 @@
+url: https://firstcitysoftware.github.io
+baseurl: /firstcitysoftware
+
+# Site settings
+title: First City Software
+email: info@firstcitysoftware.com
+description: "We're First City Software and we solve problems with code. "
+
+
+# Team names, titles and social links
+people:
+- name: Randal Humphries
+  pic: randal
+  position: Owner/Lead Developer
+  social:
+    - title: twitter
+      url: https://twitter.com/randalmeister
+    - title: stack-overflow
+      url: #
+    - title: github
+      url: https://github.com/randalhumphries
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/firstcitysoftware
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket 
+  #   url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/firstcitysoftware
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: PO Box 1234
+  - line: Savannah, GA
+
+# Build settings
+markdown: kramdown
+permalink: pretty
