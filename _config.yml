@@ -15,10 +15,10 @@ people:
   social:
     - title: twitter
       url: https://twitter.com/randalmeister
-    - title: stack-overflow
-      url: #
     - title: github
       url: https://github.com/randalhumphries
+    - title: stack-overflow
+      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
