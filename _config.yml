@@ -9,6 +9,13 @@ description: "We're First City Software and we solve problems with code."
 
 # Team names, titles and social links
 people:
+- name: Patrick Bentley
+  pic: patrick
+  position: CEO/Cofounder
+  social:
+    - title: github
+      url: https://github.com/Bentley912
+
 - name: Randal Humphries
   pic: randal
   position: CTO/Cofounder
